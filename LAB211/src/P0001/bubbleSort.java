@@ -12,5 +12,6 @@ package P0001;
 public class bubbleSort {
     public static void main(String[] args) {
         System.out.println("hello");
+        System.out.println("abc");
     }
 }
